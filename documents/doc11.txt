@@ -1,0 +1,1 @@
+Boolean retrieval uses AND, OR and NOT operators. A query returns documents that match the boolean expression.

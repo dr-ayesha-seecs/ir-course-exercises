@@ -1,0 +1,1 @@
+Information retrieval is the science of searching for documents. Ranking documents by relevance is the main goal.

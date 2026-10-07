@@ -1,0 +1,1 @@
+Stemming reduces words to their root form. For example, playing, played and plays become play.

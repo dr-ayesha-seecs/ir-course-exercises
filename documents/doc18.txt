@@ -1,0 +1,1 @@
+Evaluation of search engines uses precision, recall and nDCG. Relevance judgments are the ground truth.
