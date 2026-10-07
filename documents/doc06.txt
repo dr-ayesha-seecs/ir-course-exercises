@@ -1,0 +1,1 @@
+Search engines index millions of web pages. An inverted index maps each term to the documents containing it.
